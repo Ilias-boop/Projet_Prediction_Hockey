@@ -1,6 +1,6 @@
-# Projet_Prediction_Hockey
+# Project_Prediction_Hockey
 
 
-Objectif: Construire un moteur de probabilité de victoire
+Goal: Build a win probability engine
 
-Données : https://www.kaggle.com/datasets/martinellis/nhl-game-data
+Data : https://www.kaggle.com/datasets/martinellis/nhl-game-data
